@@ -1,1 +1,1 @@
-# Transformer-Based-NTPP-Model-for-Finance-Markets
+# Transformer-Based NTPP Model for Finance Markets
