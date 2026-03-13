@@ -2,4 +2,7 @@
 
 The contents of this repo will be made public after the research article associated is made public.
 
-contact authors at Raghul A R - alaguraghul2005@gmail.com
+contact authors at 
+Raghul A R - alaguraghul2005@gmail.com (Contributing Author)
+Subramanian - girivasansubramanian@gmail.com (Contributing Author)
+Dr. Kirubavathi G - g-kirubavathi@cb.amrita.edul (Corresponding Author)
