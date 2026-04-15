@@ -8,4 +8,4 @@ Raghul A R - alaguraghul2005@gmail.com (Contributing Author);
 
 Subramanian - girivasansubramanian@gmail.com (Contributing Author);
 
-Dr. Kirubavathi G - g-kirubavathi@cb.amrita.edul (Corresponding Author);
+Dr. Kirubavathi G - g_kirubavathi@cb.amrita.edu (Corresponding Author);
